@@ -18,7 +18,7 @@
     "passport-jwt": "^4.0.0",
     "passport-local": "^1.0.0",
     "uuid": "^3.3.2",
-    "validator": "^11.0.0",
+    "validator": "^13.7.0",
     "winston": "^3.2.1"
   },
   "devDependencies": {
